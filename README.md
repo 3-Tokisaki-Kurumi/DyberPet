@@ -23,7 +23,7 @@
   </a>
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/DyberPet-v0.8.5-green.svg"/>
+    <img src="https://img.shields.io/badge/DyberPet-v0.10.3-green.svg"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 ## 项目状态
 
-- **最新版本：v0.8.5**，Windows 版本已打包发布到 [Release](https://github.com/ChaozhongLiu/DyberPet/releases/tag/v0.8.5)。
+- **最新版本：v0.10.3**，Windows 版本已打包发布到 [Release](https://github.com/ChaozhongLiu/DyberPet/releases/tag/v0.10.3)。
 - 当前仓库以中文内容为主，欢迎通过 Issue 反馈使用问题与建议。
 - LLM 模块仍在持续开发中，相关能力暂未完全开源。
 - CSDN / GitCode 上存在与本项目无关的搬运镜像，请以当前 GitHub 仓库为准。
